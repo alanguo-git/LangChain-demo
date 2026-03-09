@@ -6,8 +6,8 @@ python3 -m venv venv
 
 # 2. 激活虚拟环境 (Mac/Linux)
 source venv/bin/activate
-# 或 (Windows)
-# venv\Scripts\activate
+或 (Windows)
+venv\Scripts\activate
 
 # 3. 安装依赖
 pip install -r requirements.txt
